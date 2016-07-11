@@ -1,0 +1,41 @@
+{
+  "name": "gulp-codesign",
+  "version": "1.0.0",
+  "description": "Sign macOS / OS X applications using Apple's codesign tool",
+  "keywords": [
+    "gulpplugin",
+    "sign",
+    "apple",
+    "osx",
+    "macos",
+    "codesign",
+    "digital",
+    "signature"
+  ],
+  "homepage": "https://github.com/MettleUp/gulp-codesign",
+  "bugs": {
+    "url": "https://github.com/MettleUp/gulp-codesign/issues"
+  },
+  "author": {
+    "name": "Andy Soell",
+    "email": "andy@mettleup.com",
+    "url": "https://github.com/amsoell"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MettleUp/gulp-codesign.git"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
